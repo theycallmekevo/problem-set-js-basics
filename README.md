@@ -2,7 +2,7 @@
 
 * Please **Fork & Clone** this repo.
 * For each problem, modify the relevant file in the `challenges`folder. We encourage you to *commit often* and push your changes to github.
-* You will [submit this problem set for review](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md).
+* Provide a link to your finished repo homework on your personal portfolio site. Label it `Homework #1 - Javascript Basics'.
 
 ## Challenges
 1. [Bottles of Adult Beverages](/challenges/bottles-of-beer-song.js)
