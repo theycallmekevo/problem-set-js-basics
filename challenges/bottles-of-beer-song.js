@@ -22,3 +22,21 @@
 */
 
 // YOUR CODE HERE
+var beerSong = function(){
+//Iterating through a for loop initialized at 5 counting down to 0
+  for (var i = 5; i >= 0; i--) {
+    if (i == 0) {
+//If statement to set when i == 0 condition
+      console.log("No more bottles of beer on the wall...");
+      console.log("Time to go buy more beer!")
+//If statement to set when i == 1 condition
+    } else if (i == 1) {
+      console.log(i + " bottle of beer on the wall,");
+      console.log(i + " bottle of beer!");
+    } else {
+      console.log(i + " bottles of beer on the wall,");
+      console.log(i + " bottles of beer!");
+    }
+  }
+};
+// beerSong();

@@ -19,5 +19,15 @@
   - work!
 
 */
-
 // YOUR CODE HERE
+function isPalindrome(){
+  var word = prompt('Enter a palindrome word');
+  if(word == word.split('').reverse().join('')){
+      console.log('true');
+      return('true');
+  } else {
+      console.log('sorry not a palindrome word');
+      return('sorry not a palindrome word');
+  }
+};
+// isPalindrome();
